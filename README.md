@@ -47,9 +47,8 @@ Install the required libraries using:
 ```bash
 pip install pandas numpy matplotlib seaborn
 
----
 
-## 📬 Contact
+## 📬 Contact:
 
 Arigaran S
 Data Science Intern – Prodigy InfoTech
