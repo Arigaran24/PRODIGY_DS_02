@@ -41,14 +41,8 @@ The objective of this task is to perform **data cleaning** and **exploratory dat
 
 ---
 
-## 🔧 Installation
-Install the required libraries using:
-
-```bash
-pip install pandas numpy matplotlib seaborn
-
-
 ## 📬 Contact:
 
-Arigaran S
-Data Science Intern – Prodigy InfoTech
+- Arigaran S
+
+- Data Science Intern – Prodigy InfoTech
